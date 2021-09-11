@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/android-core" />
+            <option value="$PROJECT_DIR$/android-core/android-core-adapter" />
+            <option value="$PROJECT_DIR$/android-core/android-core-viewbinding" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/buildSrc" />
+            <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/core/core-dispatchers" />
+            <option value="$PROJECT_DIR$/core/core-domain" />
+            <option value="$PROJECT_DIR$/core/core-result" />
+            <option value="$PROJECT_DIR$/core/core-usecase" />
+            <option value="$PROJECT_DIR$/svayantra-stack" />
+            <option value="$PROJECT_DIR$/svayantra-stack/db-svayantra" />
+            <option value="$PROJECT_DIR$/svayantra-stack/localrepo-svayantra" />
+            <option value="$PROJECT_DIR$/svayantra-stack/remoterepo-svayantra" />
+            <option value="$PROJECT_DIR$/svayantra-stack/usecase-svayantra" />
+            <option value="$PROJECT_DIR$/ui" />
+            <option value="$PROJECT_DIR$/ui/ui-dashboard" />
+            <option value="$PROJECT_DIR$/ui/ui-home" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

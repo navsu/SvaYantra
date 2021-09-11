@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //controller
+    <string name="controller_status">status %1$d</string>
+    <string name="controller_url">IP </string>
+    <string name="controller_location">location </string>
+
+    //control
+    <string name="controller_control_state">status %1$d</string>
+    <string name="controller_control_timer">Timer %1$d</string>
+    <string name="controller_control_dimmer">dimmer %1$d</string>
+
+</resources>
